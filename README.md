@@ -1,4 +1,4 @@
-Portfolio - Web Dev - Full Stack 
+# Portfolio - Web Dev - Full Stack 
 ## Commit icons Guide 
 **New feature**	✨ => sparkles 
 **Bugfix** 🐞 => beetle 
