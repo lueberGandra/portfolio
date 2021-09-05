@@ -1,5 +1,5 @@
 Portfolio - Web Dev - Full Stack 
-## Icons Guide 
+## Commit icons Guide 
 **New feature**	✨ => sparkles 
 **Bugfix** 🐞 => beetle 
 **Package** 📦 => package 
